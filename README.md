@@ -33,8 +33,3 @@ Uses the Windows Core Audio API (`IAudioSessionManager2`) via [NAudio](https://g
 ## License
 
 MIT
-
-
-## Quick note
-
-Hi Valerie!
