@@ -1,0 +1,11 @@
+# Build output and local IDE state. The release folder is intentionally tracked.
+**/bin/
+**/obj/
+/build/
+/.vs/
+*.user
+*.suo
+/tests/helpers/*.exe
+/release/BeQuiet.exe
+/release/BeQuiet-1.2.0-win-x64.zip
+/release/BeQuiet-1.2.0-win-x64/
